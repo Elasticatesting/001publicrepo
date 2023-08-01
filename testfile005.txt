@@ -15,6 +15,3 @@ abcd
 pqrs
 Bharat Bhojwani
 1234
-abcd
-pqrs
-1234
